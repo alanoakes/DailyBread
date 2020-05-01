@@ -1,16 +1,17 @@
-# 'DailyBread' Repository
+DailyBread Repository
+---
 
 > 2020-05-01-1200
 > By: Parker Oakes
 
-## 0. Contents
+### 00 Contents
 
-- [1. Purpose](#1-purpose)
-- [2. Personal Blog](#1-personal-blog)
-- [3. Data Base](#2-data-base)
-- [4. Code](#3-code)
+- [01 Purpose](#01-purpose)
+- [02 Personal Blog](#02-personal-blog)
+- [03 Data Base](#03-data-base)
+- [04 Code](#04-code)
 
-### 1. Purpose
+### 01 Purpose
 
 This repo purpose is to house and share all my personal Bible study material using R & Rstudio tools:
 
@@ -18,7 +19,7 @@ This repo purpose is to house and share all my personal Bible study material usi
 2. <b> Jekyll:   </b> aesthetic template for blog
 3. <b> Bookdown: </b> way to develop books through Rstudio
 
-### 2. Personal Blog
+### 02 Personal Blog
 
 This site contains:
 
@@ -42,7 +43,7 @@ This site contains:
     - 4.1. new convert resource
     - 4.2. discipleship resource
 
-### 3. Data Base
+### 03 Data Base
 
 |   #   | TABLE                   | Format |
 | :---: | :---------------------- | :----: |
@@ -52,7 +53,7 @@ This site contains:
 |   4   | Strongs Lexicon: Greek  |  XML   |
 |   5   | Bible Location Key      |  JSON  |
 
-### 4. Code
+### 04 Code
 
 Purpose for Code:
 
