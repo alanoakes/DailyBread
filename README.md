@@ -26,6 +26,16 @@ This site contains:
     - 1.1. Prayer
     - 1.2. [My Utmost for His Highest](https://utmost.org/)
     - 1.3. [MyBible.com: "Eat This Book" Reading Plan](https://my.bible.com/users/ParkerOakes/reading-plans/206-eat-this-book/subscription/435952819)
+        - 1.3.1. Content Analysis:
+            - Lexical density
+            - 2 most frequent phrases
+            - selection of scriptures with phrases
+            - 5 most frequent words (stop words removed)
+            - selection of scriptures with chosen word
+        - 1.3.2. Lexical-Syntax Analysis:
+            - Lexical analysis: hebrew/greek lexical defintion table
+            - Syntax analysis: contengency table with OT/NT book proportions > 5%
+            - Bible location of hebrew/greek words > 5% proportion
 2. Library of Thematic & Doctrinal Studies
 3. Subscription to Email Notifications
 4. Library of Bible Study Books (Rstudio Bookdown)
