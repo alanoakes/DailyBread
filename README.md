@@ -23,14 +23,14 @@ This repo purpose is to house and share all my personal Bible study material usi
 This site contains:
 
 1. Library of Daily Devotionals
-  a. Prayer
-  b. [My Utmost for His Highest](https://utmost.org/)
-  c. [MyBible.com: "Eat This Book" Reading Plan](https://my.bible.com/users/ParkerOakes/reading-plans/206-eat-this-book/subscription/435952819)
+    - 1.1. Prayer
+    - 1.2. [My Utmost for His Highest](https://utmost.org/)
+    - 1.3. [MyBible.com: "Eat This Book" Reading Plan](https://my.bible.com/users/ParkerOakes/reading-plans/206-eat-this-book/subscription/435952819)
 2. Library of Thematic & Doctrinal Studies
 3. Subscription to Email Notifications
 4. Library of Bible Study Books (Rstudio Bookdown)
-  a. new convert resource
-  b. discipleship resource
+    - 4.1. new convert resource
+    - 4.2. discipleship resource
 
 ### 3. Data Base
 
